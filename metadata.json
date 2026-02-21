@@ -1,0 +1,5 @@
+{
+  "name": "StyleSense",
+  "description": "AI-powered fashion recommendation system providing personalized outfit suggestions and styling guidance based on your preferences and visual inputs.",
+  "requestFramePermissions": ["camera"]
+}
